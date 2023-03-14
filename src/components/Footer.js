@@ -7,12 +7,12 @@ const Footer = () => {
         &copy; {new Date().getFullYear()}
         <span>
           <a href="/" style={{ textDecoration: 'none' }}>
-            comfy sloth
+            TechShop
           </a>
         </span>
       </h5>
 
-      <h5>All rights reserved</h5>
+      <h5> All rights reserved</h5>
     </Wrapper>
   )
 }
