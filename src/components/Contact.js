@@ -8,9 +8,7 @@ const Contact = () => {
         <h3>Join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro
-            dignissimos veritatis accusantium soluta asperiores sunt officia
-            odit. Dicta, obcaecati autem.
+            TechShop is an online destination for all things tech, offering a wide selection of cutting-edge gadgets, devices, and accessories. With a user-friendly interface and secure shopping experience, it caters to tech enthusiasts looking to stay up-to-date with the latest advancements in technology.
           </p>
           <form
             className="contact-form"
